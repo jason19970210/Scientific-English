@@ -8,7 +8,7 @@ TA : 楊婷悅
 Email : tingyueh1117@gmail.com
 
 FTP : ftp://163.25.117.117/kuo_courses/ScientificEnglish/
-> ID: kuo_courses
+> ID: kuo_courses  
 > Password: powerpoint
 >> ACM Articles (ftp://163.25.117.117/kuo_courses/ScientificEnglish/ACMArticles/)
 >> Communications of the ACM : http://cacm.acm.org/
@@ -16,9 +16,9 @@ FTP : ftp://163.25.117.117/kuo_courses/ScientificEnglish/
 Assignment Submission
 > ftp://163.25.117.117/ckou_upload/ScientificEnglish/
 
-Mid-Term Exam
+Mid-Term Exam  
 Fianl Exam
-* Open-Book
+> Open-Book
 
 ## Topics
 + Computers & Computer Systems(### Computers & Computer Systems)
