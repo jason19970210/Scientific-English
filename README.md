@@ -10,7 +10,7 @@ Email : tingyueh1117@gmail.com
 FTP : ftp://163.25.117.117/kuo_courses/ScientificEnglish/
 > ID: kuo_courses  
 > Password: powerpoint
->> ACM Articles (ftp://163.25.117.117/kuo_courses/ScientificEnglish/ACMArticles/)
+>> ACM Articles (ftp://163.25.117.117/kuo_courses/ScientificEnglish/ACMArticles/)  
 >> Communications of the ACM : http://cacm.acm.org/
 
 Assignment Submission
