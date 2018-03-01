@@ -1,10 +1,10 @@
 # Scientific-English
 
-Teacher : Karen
-Email : chenli.kuo@mail.cgu.edu.tw
+Teacher : Karen  
+Email : chenli.kuo@mail.cgu.edu.tw  
 Ext. #5601
 
-TA : 楊婷悅
+TA : 楊婷悅  
 Email : tingyueh1117@gmail.com
 
 FTP : ftp://163.25.117.117/kuo_courses/ScientificEnglish/
