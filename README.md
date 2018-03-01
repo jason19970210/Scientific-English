@@ -16,16 +16,19 @@ FTP : ftp://163.25.117.117/kuo_courses/ScientificEnglish/
 Assignment Submission
 > ftp://163.25.117.117/ckou_upload/ScientificEnglish/
 
-Mid-Term Exam  
-Fianl Exam
+Mid-Term Exam (W9)  
+Fianl Exam (W18)
 > Open-Book
 
 Mini-Lecture Proposal  
+- Week 5 - 16
+- 10-15 mins
+
 
 Poster
 - A1
 - introduce a concept / product / application relevant to IT / IM / IS  
-- Role 1 : explain to colleagues when they visit your stand  
+- Role 1 : Explain to colleagues when they visit your stand  
 - Role 2 : Visit each stand, and write down the most interesting one, and what you have learn
 
 ## Topics
