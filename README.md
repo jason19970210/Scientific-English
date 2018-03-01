@@ -20,6 +20,14 @@ Mid-Term Exam
 Fianl Exam
 > Open-Book
 
+Mini-Lecture Proposal  
+
+Poster
+- A1
+- introduce a concept / product / application relevant to IT / IM / IS  
+- Role 1 : explain to colleagues when they visit your stand  
+- Role 2 : Visit each stand, and write down the most interesting one, and what you have learn
+
 ## Topics
 + Computers & Computer Systems(### Computers & Computer Systems)
 + Data and Information
