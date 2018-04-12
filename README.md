@@ -32,7 +32,7 @@ Poster
 - Role 2 : Visit each stand, and write down the most interesting one, and what you have learn
 
 ## Topics
-+ Computers & Computer Systems(### Computers & Computer Systems)
++ Computers & Computer Systems
 + Data and Information
 + Representing and Manipulating Data in Computers
 + Computational Thinking
